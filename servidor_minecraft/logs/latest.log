@@ -700,3 +700,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 17:17:16.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
 [15Jul2025 17:17:16.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
 [15Jul2025 17:17:19.423] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[15Jul2025 17:23:08.926] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:23:08.929] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:23:30.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Crocodile
+[15Jul2025 17:23:59.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -7.712463485268472,0.0,-6.432878465109297
+[15Jul2025 17:23:59.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17049ms or 340 ticks behind
+[15Jul2025 17:24:37.282] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:24:37.287] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:25:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Crocodile
+[15Jul2025 17:26:41.733] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:26:41.736] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:26:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:28:13.731] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:28:13.733] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:28:21.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:28:54.328] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:28:54.333] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:29:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:29:03.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already

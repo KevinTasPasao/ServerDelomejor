@@ -3978,27 +3978,69 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
-    "criteria": {
-      "has_warden_upgrade_smithing_template": "2025-07-15 16:41:30 +0000"
+      "has_dandelion": "2025-07-15 16:03:11 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_boat": "2025-07-15 16:25:53 +0000"
+      "has_dandelion": "2025-07-15 16:03:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-15 16:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-15 16:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-15 16:03:48 +0000"
     },
     "done": true
   },
   "biomeswevegone:recipes/food/cooked_oddion_bulb_from_campfire": {
     "criteria": {
       "has_oddion_bulb": "2025-07-15 16:14:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
+    "criteria": {
+      "has_oddion_bulb": "2025-07-15 16:14:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
+    "criteria": {
+      "has_oddion_bulb": "2025-07-15 16:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-15 16:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-15 16:18:04 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
   },
@@ -4014,12 +4056,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
-    "criteria": {
-      "has_oddion_bulb": "2025-07-15 16:14:51 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
@@ -4032,22 +4068,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-07-15 16:34:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-15 17:35:19 +0000",
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
     },
     "done": true
   },
@@ -4081,23 +4104,11 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-07-15 16:03:11 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
   },
   "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
     "criteria": {
@@ -4114,12 +4125,6 @@
   "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smoker": {
-    "criteria": {
-      "has_oddion_bulb": "2025-07-15 16:14:51 +0000"
     },
     "done": true
   },
@@ -4153,47 +4158,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-07-15 16:52:28 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-07-15 16:53:02 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
   },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
@@ -4213,12 +4182,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
-  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
@@ -4237,29 +4200,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-07-15 16:03:11 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
-  },
   "biomeswevegone:recipes/transportation/florus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
@@ -4278,24 +4223,6 @@
       "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-07-15 16:36:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-15 16:18:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
   },
   "biomeswevegone:recipes/transportation/cypress_chest_boat": {
     "criteria": {
@@ -4327,12 +4254,6 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-15 17:34:58 +0000"
-    },
-    "done": false
-  },
   "biomeswevegone:recipes/transportation/skyris_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
@@ -4351,27 +4272,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-07-15 16:18:04 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-07-15 16:03:45 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-07-15 16:03:33 +0000"
     },
     "done": true
   },
@@ -4387,15 +4290,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-07-15 16:03:48 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/holly_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-15 16:34:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-15 16:36:27 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-07-15 16:41:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-15 16:52:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 16:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-07-15 22:01:44 +0000"
     },
     "done": true
   },

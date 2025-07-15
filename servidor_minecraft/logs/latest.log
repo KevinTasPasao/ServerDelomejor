@@ -644,3 +644,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 03:30:36.519] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [15Jul2025 03:30:36.523] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [15Jul2025 03:31:36.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Spiders Mother
+[15Jul2025 03:33:12.867] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:33:12.871] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:33:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Baby Spider
+[15Jul2025 03:34:35.069] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:34:35.073] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:35:04.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Spiders Mother
+[15Jul2025 03:35:39.171] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:35:39.174] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:35:52.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Knowledge of Death]
+[15Jul2025 03:35:52.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Chain Death]
+[15Jul2025 03:35:52.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Baby Spider
+[15Jul2025 03:35:59.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Knowledge raises the soul]
+[15Jul2025 03:36:37.170] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:36:37.174] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:36:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Baby Spider
+[15Jul2025 03:37:29.770] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:37:29.772] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:37:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was burnt to a crisp whilst fighting Baby Spider
+[15Jul2025 03:38:18.220] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:38:18.223] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:38:32.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[15Jul2025 03:41:41.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Arachnophobe's Nightmare]
+[15Jul2025 03:41:51.567] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:41:51.569] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:42:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Baby Spider

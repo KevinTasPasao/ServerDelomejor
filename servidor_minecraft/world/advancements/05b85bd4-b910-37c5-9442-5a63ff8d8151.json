@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/cika_wood": {
+    "criteria": {
+      "has_log": "2025-07-15 00:34:21 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-07-15 00:14:47 +0000"
@@ -1137,6 +1143,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-07-15 00:14:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/cika_planks": {
+    "criteria": {
+      "has_log": "2025-07-15 00:34:21 +0000"
     },
     "done": true
   },

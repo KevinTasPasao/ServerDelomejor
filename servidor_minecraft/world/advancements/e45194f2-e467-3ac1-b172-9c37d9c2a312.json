@@ -1280,6 +1280,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-07-15 00:36:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-07-15 00:20:20 +0000"

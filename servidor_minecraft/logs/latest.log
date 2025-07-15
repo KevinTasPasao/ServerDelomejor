@@ -653,3 +653,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 15:25:38.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
 [15Jul2025 15:25:38.939] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [15Jul2025 15:26:56.490] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3dedb132[id=<null>,name=elpepe,properties={},legacy=false] (/100.71.192.84:50725) lost connection: Disconnected
+[15Jul2025 15:31:00.904] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:58747] logged in with entity id 17577 at (-1204.2662075234027, 68.0, 492.49477385674845)
+[15Jul2025 15:31:00.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[15Jul2025 15:31:00.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[15Jul2025 15:31:00.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[15Jul2025 15:31:00.907] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[15Jul2025 15:31:00.910] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[15Jul2025 15:31:00.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[15Jul2025 15:31:00.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[15Jul2025 15:31:00.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[15Jul2025 15:31:20.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1203, y=69, z=493} BlockPos{x=-1203, y=68, z=496}
+[15Jul2025 15:32:34.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 6.135984998400545,3.252203340253729,7.412162486406089
+[15Jul2025 15:33:20.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[15Jul2025 15:33:20.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[15Jul2025 15:33:20.051] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jul2025 15:33:26.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:58803] logged in with entity id 18169 at (-1193.7834918472379, 72.24918707874468, 507.62497813659917)
+[15Jul2025 15:33:26.002] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[15Jul2025 15:33:26.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[15Jul2025 15:33:26.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[15Jul2025 15:33:26.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[15Jul2025 15:33:26.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[15Jul2025 15:33:26.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[15Jul2025 15:33:26.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[15Jul2025 15:33:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[15Jul2025 15:36:17.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ashes 'n Bones]

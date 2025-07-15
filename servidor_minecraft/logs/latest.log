@@ -786,3 +786,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 00:44:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
 [15Jul2025 00:45:44.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [15Jul2025 00:45:55.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Amateur Archaeologist]
+[15Jul2025 00:51:29.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Suit Up]
+[15Jul2025 00:54:29.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Monster Hunter]
+[15Jul2025 00:58:56.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Isn't It Iron Pick]
+[15Jul2025 00:59:59.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[15Jul2025 01:00:24.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[15Jul2025 01:01:14.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -10.096477113986111,0.0,-1.3575548019107089
+[15Jul2025 01:01:14.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[15Jul2025 01:01:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Mine? Mine? Mine?]
+[15Jul2025 01:02:02.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[15Jul2025 01:04:01.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:59285] logged in with entity id 11393 at (60.600826520669926, 68.0, 10.1083731123693)
+[15Jul2025 01:04:01.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[15Jul2025 01:04:01.367] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[15Jul2025 01:04:01.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[15Jul2025 01:04:01.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[15Jul2025 01:04:01.369] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[15Jul2025 01:04:01.371] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[15Jul2025 01:04:01.371] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[15Jul2025 01:04:01.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[15Jul2025 01:04:30.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[15Jul2025 01:04:59.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[15Jul2025 01:04:59.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[15Jul2025 01:04:59.513] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jul2025 01:05:16.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:59356] logged in with entity id 11872 at (60.600826520669926, 68.0, 10.1083731123693)
+[15Jul2025 01:05:16.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[15Jul2025 01:05:16.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[15Jul2025 01:05:16.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[15Jul2025 01:05:16.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[15Jul2025 01:05:16.119] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[15Jul2025 01:05:16.120] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[15Jul2025 01:05:16.121] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[15Jul2025 01:05:16.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[15Jul2025 01:05:38.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Acquire Hardware]
+[15Jul2025 01:05:45.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[15Jul2025 01:05:45.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[15Jul2025 01:06:02.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:59403] logged in with entity id 12150 at (60.600826520669926, 68.0, 10.1083731123693)
+[15Jul2025 01:06:02.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[15Jul2025 01:06:02.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[15Jul2025 01:06:02.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[15Jul2025 01:06:02.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[15Jul2025 01:06:02.970] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[15Jul2025 01:06:02.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[15Jul2025 01:06:02.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[15Jul2025 01:06:02.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[15Jul2025 01:07:01.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Timed out
+[15Jul2025 01:07:01.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[15Jul2025 01:07:01.063] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jul2025 01:07:45.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A Moment in Time]
+[15Jul2025 01:09:33.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -7.826108024820883,0.2664035411908401,6.411599118235074
+[15Jul2025 01:09:33.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11306ms or 226 ticks behind
+[15Jul2025 01:10:04.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6298, l='ServerLevel[world]', x=-538.70, y=72.00, z=67.30] died, message: 'Villager was slain by Zombie'
+[15Jul2025 01:10:26.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 9.324577376733828,1.0244240882136921,-3.9821475067112195
+[15Jul2025 01:10:26.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -9.49925972319852,-0.562797339167517,3.1512686299112147
+[15Jul2025 01:10:26.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15166ms or 303 ticks behind
+[15Jul2025 01:11:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [The Lighthouse]

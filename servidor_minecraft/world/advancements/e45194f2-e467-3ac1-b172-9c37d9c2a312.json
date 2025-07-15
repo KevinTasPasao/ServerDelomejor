@@ -83,11 +83,14 @@
       "biomeswevegone:zelkova_forest": "2025-07-14 23:49:34 +0000",
       "biomeswevegone:temperate_grove": "2025-07-15 03:53:03 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-15 01:02:47 +0000",
+      "biomeswevegone:lush_stacks": "2025-07-15 16:45:02 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 00:23:59 +0000",
       "biomeswevegone:orchard": "2025-07-15 01:00:23 +0000",
       "biomeswevegone:prairie": "2025-07-15 01:10:35 +0000",
+      "biomeswevegone:basalt_barrera": "2025-07-15 16:59:49 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 00:22:02 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-15 01:01:54 +0000"
+      "biomeswevegone:allium_shrubland": "2025-07-15 01:01:54 +0000",
+      "biomeswevegone:rainbow_beach": "2025-07-15 16:59:58 +0000"
     },
     "done": false
   },
@@ -1419,7 +1422,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-07-15 16:47:33 +0000",
       "minecraft:river": "2025-07-15 00:23:51 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-15 16:47:32 +0000",
       "minecraft:stony_shore": "2025-07-15 01:01:01 +0000",
       "minecraft:dripstone_caves": "2025-07-15 03:53:18 +0000",
       "minecraft:forest": "2025-07-15 15:41:25 +0000",
@@ -1427,6 +1432,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-07-15 16:25:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-15 16:30:32 +0000",
       "minecraft:meadow": "2025-07-15 15:40:48 +0000",
+      "minecraft:savanna": "2025-07-15 16:50:38 +0000",
       "minecraft:plains": "2025-07-15 01:11:09 +0000"
     },
     "done": false
@@ -4126,9 +4132,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-07-15 16:52:28 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-15 16:53:02 +0000"
     },
     "done": true
   },

@@ -647,3 +647,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 22:04:52.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Your First Receptacle]
 [15Jul2025 22:04:52.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Funeral Theft]
 [15Jul2025 22:07:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [A Strange Grave Dust]
+[15Jul2025 22:07:49.784] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 141.1 μs. 249/249 recipes are parallelized.
+[15Jul2025 22:09:55.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Bypassing the Expiration Date]
+[15Jul2025 22:10:23.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Getting an Upgrade]
+[15Jul2025 22:12:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [What a Deal!]
+[15Jul2025 22:19:36.667] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[15Jul2025 22:21:58.015] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[15Jul2025 22:22:26.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[15Jul2025 22:22:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Lighthouse]
+[15Jul2025 22:27:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Sweet Dreams]

@@ -718,3 +718,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 17:28:54.333] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [15Jul2025 17:29:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
 [15Jul2025 17:29:03.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[15Jul2025 17:30:08.931] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:30:08.939] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:30:15.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:30:56.397] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:30:56.399] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:31:03.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:31:33.549] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:31:33.552] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:31:39.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:32:11.539] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:32:11.542] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:32:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:32:52.596] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:32:52.599] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:32:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:33:34.899] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:33:34.901] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:33:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:35:19.793] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 17:35:19.796] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 17:35:26.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[15Jul2025 17:35:30.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[15Jul2025 17:35:30.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game

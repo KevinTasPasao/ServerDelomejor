@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2025-07-15 00:14:47 +0000"
@@ -370,6 +376,12 @@
       "has_cobblestone": "2025-07-15 00:20:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
@@ -726,6 +738,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-07-15 01:05:38 +0000"
@@ -1032,6 +1050,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_string": "2025-07-15 00:54:30 +0000"
@@ -1218,6 +1242,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-07-15 00:45:14 +0000"
@@ -1229,6 +1259,12 @@
       "has_cobblestone": "2025-07-15 00:20:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
   },
   "biomeswevegone:recipes/transportation/cypress_boat": {
     "criteria": {
@@ -1614,6 +1650,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
     "criteria": {
       "has_spruce_planks": "2025-07-15 01:20:16 +0000"
@@ -1745,6 +1787,12 @@
       "has_iron_ingot": "2025-07-15 01:05:38 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
@@ -1979,6 +2027,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 01:05:38 +0000"
@@ -2050,6 +2104,12 @@
       "has_planks": "2025-07-15 00:14:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
@@ -2140,6 +2200,12 @@
       "has_wood": "2025-07-15 01:05:38 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
   },
   "exposure:recipes/copying_black_and_white_photograph": {
     "criteria": {
@@ -2314,6 +2380,12 @@
       "has_string": "2025-07-15 00:54:30 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-15 02:17:00 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {

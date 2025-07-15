@@ -881,3 +881,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 01:48:53.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kingg9
 [15Jul2025 01:48:53.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kingg9
 [15Jul2025 01:48:53.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
+[15Jul2025 01:52:56.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
+[15Jul2025 01:52:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game

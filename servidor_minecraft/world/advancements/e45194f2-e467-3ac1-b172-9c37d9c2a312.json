@@ -84,6 +84,7 @@
       "biomeswevegone:forgotten_forest": "2025-07-15 01:02:47 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 00:23:59 +0000",
       "biomeswevegone:orchard": "2025-07-15 01:00:23 +0000",
+      "biomeswevegone:prairie": "2025-07-15 01:10:35 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 00:22:02 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-15 01:01:54 +0000"
     },
@@ -1625,6 +1626,12 @@
     },
     "done": true
   },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2025-07-15 01:07:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-15 01:07:06 +0000"
@@ -1706,6 +1713,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-15 01:07:06 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2025-07-15 01:07:45 +0000"
     },
     "done": true
   },
@@ -1915,7 +1928,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-07-15 00:54:43 +0000"
+      "apple": "2025-07-15 00:54:43 +0000",
+      "golden_apple": "2025-07-15 01:07:52 +0000"
     },
     "done": false
   },
@@ -2075,6 +2089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-15 01:07:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-15 00:40:02 +0000"
@@ -2096,6 +2116,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 00:40:02 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2025-07-15 01:07:45 +0000"
     },
     "done": true
   },
@@ -2645,6 +2671,12 @@
     },
     "done": true
   },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2025-07-15 01:07:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-07-15 01:07:06 +0000"
@@ -2744,6 +2776,12 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-07-15 00:40:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-07-15 01:11:19 +0000"
     },
     "done": true
   },
@@ -2861,6 +2899,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-15 01:08:06 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-07-15 00:20:20 +0000"
@@ -2948,7 +2992,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-07-15 00:23:51 +0000",
-      "minecraft:stony_shore": "2025-07-15 01:01:01 +0000"
+      "minecraft:stony_shore": "2025-07-15 01:01:01 +0000",
+      "minecraft:plains": "2025-07-15 01:11:09 +0000"
     },
     "done": false
   },
@@ -3015,6 +3060,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-07-15 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-15 01:07:50 +0000"
     },
     "done": true
   },
@@ -3087,6 +3138,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-15 00:39:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-15 01:08:06 +0000"
     },
     "done": true
   },

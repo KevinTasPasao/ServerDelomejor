@@ -840,3 +840,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 01:10:26.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -9.49925972319852,-0.562797339167517,3.1512686299112147
 [15Jul2025 01:10:26.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15166ms or 303 ticks behind
 [15Jul2025 01:11:19.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [The Lighthouse]
+[15Jul2025 01:11:55.047] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 01:11:55.063] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 01:12:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[15Jul2025 01:12:33.108] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[15Jul2025 01:12:33.110] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[15Jul2025 01:12:55.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was doomed to fall by Dark Vortex
+[15Jul2025 01:13:15.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[15Jul2025 01:13:33.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Knowledge of Death]
+[15Jul2025 01:13:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Strong or Careful]
+[15Jul2025 01:13:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Dark Vortex
+[15Jul2025 01:13:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Your First Grave]
+[15Jul2025 01:14:05.010] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 01:14:05.018] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 01:14:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was blown up by Phantom Creeper
+[15Jul2025 01:14:23.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 87.500000, 497.500000]
+[15Jul2025 01:15:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [The Lighthouse]
+[15Jul2025 01:18:02.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -6.873484880602746,5.0,-5.303106426732256
+[15Jul2025 01:18:02.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[15Jul2025 01:19:06.307] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[15Jul2025 01:19:06.307] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[15Jul2025 01:19:06.307] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[15Jul2025 01:19:06.307] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[15Jul2025 01:19:06.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[15Jul2025 01:19:06.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[15Jul2025 01:19:06.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[15Jul2025 01:19:06.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'

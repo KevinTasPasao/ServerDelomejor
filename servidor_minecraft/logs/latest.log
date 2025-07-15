@@ -632,3 +632,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 14:33:26.772] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [15Jul2025 14:36:24.244] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [15Jul2025 14:36:24.248] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 14:36:31.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Skeleton
+[15Jul2025 14:37:12.160] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 14:37:12.165] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 14:37:18.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Zombie
+[15Jul2025 14:39:39.447] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 14:39:39.451] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 14:39:53.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was blown up by Creeper
+[15Jul2025 14:42:22.093] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 14:42:22.096] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 14:42:42.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Zombie using magic

@@ -883,3 +883,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 01:48:53.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game
 [15Jul2025 01:52:56.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kingg9 lost connection: Disconnected
 [15Jul2025 01:52:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 left the game
+[15Jul2025 02:02:53.204] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65559987[id=<null>,name=Kingg9,properties={},legacy=false] (/100.100.204.77:50428) lost connection: Disconnected
+[15Jul2025 02:08:34.553] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3612ff3e[id=<null>,name=Kingg9,properties={},legacy=false] (/100.100.204.77:50456) lost connection: Disconnected
+[15Jul2025 02:09:15.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50461] logged in with entity id 18451 at (6.5, 66.0, -8.5)
+[15Jul2025 02:09:15.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kingg9
+[15Jul2025 02:09:15.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kingg9
+[15Jul2025 02:09:15.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kingg9
+[15Jul2025 02:09:15.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kingg9
+[15Jul2025 02:09:15.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kingg9
+[15Jul2025 02:09:15.115] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kingg9
+[15Jul2025 02:09:15.116] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kingg9
+[15Jul2025 02:09:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game

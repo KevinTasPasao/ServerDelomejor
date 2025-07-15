@@ -872,3 +872,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 01:30:55.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
 [15Jul2025 01:30:55.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
 [15Jul2025 01:30:56.005] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jul2025 01:48:53.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kingg9[/100.100.204.77:50249] logged in with entity id 18291 at (6.5, 66.0, -8.5)
+[15Jul2025 01:48:53.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kingg9
+[15Jul2025 01:48:53.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kingg9
+[15Jul2025 01:48:53.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kingg9
+[15Jul2025 01:48:53.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kingg9
+[15Jul2025 01:48:53.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kingg9
+[15Jul2025 01:48:53.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kingg9
+[15Jul2025 01:48:53.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kingg9
+[15Jul2025 01:48:53.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kingg9 joined the game

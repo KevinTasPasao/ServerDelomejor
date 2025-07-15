@@ -866,3 +866,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 01:19:06.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
 [15Jul2025 01:19:06.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
 [15Jul2025 01:19:06.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[15Jul2025 01:22:02.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Half a flight]
+[15Jul2025 01:22:22.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Half a flight]
+[15Jul2025 01:26:16.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [A Moment in Time]
+[15Jul2025 01:30:55.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[15Jul2025 01:30:55.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[15Jul2025 01:30:56.005] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

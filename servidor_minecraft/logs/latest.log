@@ -768,3 +768,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 00:41:07.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
 [15Jul2025 00:41:07.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
 [15Jul2025 00:41:07.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[15Jul2025 00:41:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Ice Bucket Challenge]
+[15Jul2025 00:41:58.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[15Jul2025 00:41:58.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[15Jul2025 00:42:22.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Guns and Roses]
+[15Jul2025 00:44:08.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:61440] logged in with entity id 7788 at (60.600826520669926, 68.0, 10.1083731123693)
+[15Jul2025 00:44:08.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[15Jul2025 00:44:08.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[15Jul2025 00:44:08.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[15Jul2025 00:44:08.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[15Jul2025 00:44:08.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[15Jul2025 00:44:08.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[15Jul2025 00:44:08.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[15Jul2025 00:44:08.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[15Jul2025 00:44:16.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Amateur Archaeologist]
+[15Jul2025 00:44:35.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[15Jul2025 00:44:35.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[15Jul2025 00:45:44.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[15Jul2025 00:45:55.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Amateur Archaeologist]

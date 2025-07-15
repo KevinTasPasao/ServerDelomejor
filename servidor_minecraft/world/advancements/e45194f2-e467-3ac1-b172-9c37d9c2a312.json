@@ -1423,6 +1423,9 @@
       "minecraft:stony_shore": "2025-07-15 01:01:01 +0000",
       "minecraft:dripstone_caves": "2025-07-15 03:53:18 +0000",
       "minecraft:forest": "2025-07-15 15:41:25 +0000",
+      "minecraft:ocean": "2025-07-15 16:44:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-15 16:25:25 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-15 16:30:32 +0000",
       "minecraft:meadow": "2025-07-15 15:40:48 +0000",
       "minecraft:plains": "2025-07-15 01:11:09 +0000"
     },
@@ -3967,9 +3970,33 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-07-15 16:41:30 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/food/cooked_oddion_bulb_from_campfire": {
     "criteria": {
       "has_oddion_bulb": "2025-07-15 16:14:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
   },
@@ -3979,9 +4006,87 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-15 16:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-15 16:03:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
   },
@@ -3991,15 +4096,165 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-15 16:03:11 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-15 16:36:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-07-15 16:18:04 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
   },
@@ -4015,15 +4270,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-07-15 16:03:33 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-07-15 16:03:48 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-15 16:25:53 +0000"
     },
     "done": true
   },

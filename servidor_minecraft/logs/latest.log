@@ -620,3 +620,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 16:00:12.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
 [15Jul2025 16:03:33.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Magic Writing]
 [15Jul2025 16:06:19.156] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.494 ms. 5487/5648 recipes are parallelized.
+[15Jul2025 16:29:10.362] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-668, y=-21, z=1533}
+[15Jul2025 16:31:45.873] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[15Jul2025 16:31:45.874] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[15Jul2025 16:31:56.123] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[15Jul2025 16:31:56.124] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[15Jul2025 16:36:27.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Where Is The Stone Pen?]
+[15Jul2025 16:46:30.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-907, y=8, z=1904} but found not block entity block Block{minecraft:water}[level=0] at location
+[15Jul2025 16:46:30.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-907, y=8, z=1904}

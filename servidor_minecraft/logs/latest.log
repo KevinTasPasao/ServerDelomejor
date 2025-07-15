@@ -669,3 +669,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [15Jul2025 03:41:51.567] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [15Jul2025 03:41:51.569] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [15Jul2025 03:42:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Baby Spider
+[15Jul2025 03:42:43.268] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:42:43.270] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:43:20.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Baby Spider using magic
+[15Jul2025 03:45:51.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Monster Hunter]
+[15Jul2025 03:54:02.619] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 03:54:02.622] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 03:54:20.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Ferrous Wroughtnaut
+[15Jul2025 03:54:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [The Most Useful Key]
+[15Jul2025 03:54:30.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [A Fast Comeback]
+[15Jul2025 04:03:01.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6129ms or 122 ticks behind
+[15Jul2025 04:04:51.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12195ms or 243 ticks behind
+[15Jul2025 04:14:58.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 8.368017490167631,0.0,5.82738968013939
+[15Jul2025 04:14:58.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10074ms or 201 ticks behind
+[15Jul2025 04:15:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Chest Slayer]
+[15Jul2025 04:22:07.674] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[15Jul2025 04:22:07.677] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[15Jul2025 04:22:14.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Baby Spider
+[15Jul2025 04:22:23.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[15Jul2025 04:22:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game

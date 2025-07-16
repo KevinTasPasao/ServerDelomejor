@@ -5967,6 +5967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-16 17:53:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/frostbright_spear": {
     "criteria": {
       "has_item": "2025-07-16 16:09:51 +0000"
@@ -5988,6 +5994,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-07-16 17:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 17:53:53 +0000"
     },
     "done": true
   },
@@ -6030,6 +6042,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2025-07-16 17:20:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-16 18:02:32 +0000"
     },
     "done": true
   },
@@ -6159,6 +6177,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-07-16 18:01:30 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/maple_button": {
     "criteria": {
       "has_planks": "2025-07-16 16:16:36 +0000"
@@ -6192,6 +6216,12 @@
   "biomeswevegone:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-16 18:02:32 +0000"
     },
     "done": true
   },

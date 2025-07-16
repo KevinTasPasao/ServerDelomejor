@@ -1434,6 +1434,7 @@
       "minecraft:dripstone_caves": "2025-07-15 03:53:18 +0000",
       "minecraft:forest": "2025-07-15 15:41:25 +0000",
       "minecraft:ocean": "2025-07-15 16:44:30 +0000",
+      "minecraft:jungle": "2025-07-16 15:20:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-15 16:25:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-15 16:30:32 +0000",
       "minecraft:meadow": "2025-07-15 15:40:48 +0000",
@@ -2983,8 +2984,10 @@
     "criteria": {
       "cooked_porkchop": "2025-07-15 03:39:27 +0000",
       "cooked_mutton": "2025-07-15 01:05:44 +0000",
+      "porkchop": "2025-07-16 15:16:21 +0000",
       "bread": "2025-07-15 03:45:07 +0000",
       "golden_apple": "2025-07-16 14:57:18 +0000",
+      "glow_berries": "2025-07-16 15:06:33 +0000",
       "cod": "2025-07-15 16:15:36 +0000"
     },
     "done": false
@@ -5880,6 +5883,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-16 15:09:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-07-16 15:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-16 14:50:10 +0000"
@@ -5898,15 +5913,57 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-16 15:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-16 15:14:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-16 15:09:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-16 14:50:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-16 15:09:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-16 15:02:05 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/parabolic_antenna": {
     "criteria": {
       "has_ender_pearl": "2025-07-16 14:55:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2025-07-16 15:09:05 +0000"
     },
     "done": true
   },

@@ -627,3 +627,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Jul2025 15:18:17.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
 [16Jul2025 15:19:42.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 9.747988033462889,1.996983738490954,-2.1864270811430515
 [16Jul2025 15:19:42.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
+[16Jul2025 15:51:54.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1122, y=77, z=397} BlockPos{x=-1123, y=75, z=396}
+[16Jul2025 15:51:59.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=72, z=402} BlockPos{x=-1139, y=71, z=401}
+[16Jul2025 15:51:59.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=72, z=402} BlockPos{x=-1139, y=71, z=401}
+[16Jul2025 15:51:59.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=72, z=402} BlockPos{x=-1139, y=71, z=401}
+[16Jul2025 15:51:59.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=72, z=402} BlockPos{x=-1139, y=71, z=401}
+[16Jul2025 15:52:06.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1149, y=72, z=400} BlockPos{x=-1148, y=71, z=398}
+[16Jul2025 15:52:07.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1154, y=73, z=400} BlockPos{x=-1154, y=71, z=398}
+[16Jul2025 15:52:09.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1160, y=71, z=398} BlockPos{x=-1160, y=70, z=396}
+[16Jul2025 15:52:09.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1160, y=71, z=398} BlockPos{x=-1160, y=70, z=396}
+[16Jul2025 15:52:51.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1131, y=72, z=425} BlockPos{x=-1130, y=71, z=423}
+[16Jul2025 15:52:52.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1131, y=72, z=425} BlockPos{x=-1130, y=71, z=423}
+[16Jul2025 15:54:02.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -2.7134961362130525,-1.8499999999998948,-9.47180717797437
+[16Jul2025 15:54:02.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[16Jul2025 15:54:52.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Gravedigger]
+[16Jul2025 16:09:51.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Light Up The World!]
+[16Jul2025 16:23:10.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Bone Crusher]
+[16Jul2025 16:31:57.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -10.047525465979106,0.0,2.592046691898986
+[16Jul2025 16:31:57.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -10.436910279429071,0.0,2.682762999718989
+[16Jul2025 16:31:57.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -10.826374577580737,0.0,2.7732166189684904
+[16Jul2025 16:31:57.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -11.215911257602897,0.0,2.863430078319425
+[16Jul2025 16:31:57.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -11.605513926947765,0.0,2.95342365264446
+[16Jul2025 16:31:57.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -11.995176824871692,0.0,3.043215589328611
+[16Jul2025 16:31:57.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -12.38489477415635,0.0,3.132822311018117
+[16Jul2025 16:31:57.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -12.774663115305202,0.0,3.2222585980939584
+[16Jul2025 16:31:57.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -13.164476809130633,0.0,3.3115414940216397
+[16Jul2025 16:31:57.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved too quickly! -13.554332158554189,0.0,3.400682596796969
+[16Jul2025 16:33:33.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Dripstone Everywhere]
+[16Jul2025 16:33:43.648] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:33:43.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:33:43.649] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:33:43.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:33:43.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:33:43.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:33:43.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:35:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A Disgusting Worm]

@@ -92,6 +92,7 @@
       "biomeswevegone:ebony_woods": "2025-07-15 17:15:52 +0000",
       "biomeswevegone:basalt_barrera": "2025-07-15 16:59:49 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 00:22:02 +0000",
+      "biomeswevegone:skyrise_vale": "2025-07-16 16:07:16 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-15 01:01:54 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-15 16:59:58 +0000"
     },
@@ -2984,6 +2985,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-15 03:39:27 +0000",
       "cooked_mutton": "2025-07-15 01:05:44 +0000",
+      "cooked_beef": "2025-07-16 15:55:02 +0000",
       "porkchop": "2025-07-16 15:16:21 +0000",
       "bread": "2025-07-15 03:45:07 +0000",
       "golden_apple": "2025-07-16 14:57:18 +0000",
@@ -5889,15 +5891,93 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_maple_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 16:16:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-07-16 15:02:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 15:55:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-07-16 14:50:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 15:55:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 15:55:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
     },
     "done": true
   },
@@ -5913,6 +5993,36 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 15:55:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-07-16 15:27:20 +0000"
@@ -5925,9 +6035,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-16 15:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-07-16 15:09:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2025-07-16 16:14:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
     },
     "done": true
   },
@@ -5937,9 +6065,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-16 16:12:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-07-16 15:54:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-16 15:09:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
     },
     "done": true
   },
@@ -5955,9 +6119,45 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-07-16 16:09:51 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2025-07-16 15:09:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-16 16:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 15:55:05 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 16:16:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/maple_crafting_table": {
+    "criteria": {
+      "has_maple_planks": "2025-07-16 16:16:36 +0000"
     },
     "done": true
   },
@@ -5973,9 +6173,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-16 15:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-16 16:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-07-16 15:51:48 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/radio_antenna": {
     "criteria": {
       "has_ender_pearl": "2025-07-16 14:55:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-07-16 15:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-16 15:55:05 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_log": "2025-07-16 16:16:16 +0000"
     },
     "done": true
   },

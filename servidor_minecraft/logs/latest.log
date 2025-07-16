@@ -128,3 +128,26 @@
 [16Jul2025 01:58:13.249] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [16Jul2025 01:58:13.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Iron, but dark]
 [16Jul2025 01:58:58.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2291.500000, 102.500000, 1024.500000]
+[16Jul2025 02:07:02.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2390.500000, -3.500000, 1146.500000]
+[16Jul2025 02:07:14.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Iron, but dark]
+[16Jul2025 02:08:22.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Local Brewery]
+[16Jul2025 02:10:36.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[16Jul2025 02:10:43.697] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[16Jul2025 02:10:43.699] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[16Jul2025 02:10:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[16Jul2025 02:12:29.149] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[16Jul2025 02:12:29.151] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[16Jul2025 02:13:46.898] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[16Jul2025 02:13:46.900] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[16Jul2025 02:15:29.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Well prepared]
+[16Jul2025 02:15:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[16Jul2025 02:18:08.547] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[16Jul2025 02:18:08.550] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[16Jul2025 02:18:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[16Jul2025 02:19:26.254] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[16Jul2025 02:19:26.258] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[16Jul2025 02:19:40.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[16Jul2025 02:20:10.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [You Need a Mint]
+[16Jul2025 02:23:16.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[16Jul2025 02:23:21.098] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[16Jul2025 02:23:21.101] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved

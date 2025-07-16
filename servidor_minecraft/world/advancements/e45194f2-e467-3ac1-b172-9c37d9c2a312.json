@@ -4901,6 +4901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-16 01:59:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-16 01:19:48 +0000"
@@ -5159,6 +5165,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-07-16 01:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-16 01:19:48 +0000"
@@ -5243,6 +5255,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2025-07-16 01:47:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-16 01:16:37 +0000"
@@ -5270,6 +5288,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-07-16 01:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-16 01:59:14 +0000"
     },
     "done": true
   },
@@ -5549,6 +5573,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-07-16 01:53:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-16 01:19:48 +0000"
@@ -5606,6 +5636,12 @@
   "mcwwindows:recipes/mosaic_glass": {
     "criteria": {
       "has_wood": "2025-07-16 01:19:48 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-07-16 01:58:13 +0000"
     },
     "done": true
   },

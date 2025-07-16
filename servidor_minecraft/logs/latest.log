@@ -704,3 +704,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Jul2025 16:42:46.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 0.3672165148699378
 [16Jul2025 16:42:46.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of elpepe) moved wrongly! 0.6854899837544508
 [16Jul2025 16:42:53.453] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:47:05.751] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 16:47:54.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already

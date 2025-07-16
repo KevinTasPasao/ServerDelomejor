@@ -151,3 +151,11 @@
 [16Jul2025 02:23:16.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [16Jul2025 02:23:21.098] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [16Jul2025 02:23:21.101] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[16Jul2025 02:24:30.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Timed out
+[16Jul2025 02:24:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[16Jul2025 02:24:30.549] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Jul2025 02:25:41.397] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[16Jul2025 02:25:41.399] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[16Jul2025 02:25:49.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Wraith
+[16Jul2025 02:29:11.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[16Jul2025 02:29:11.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game

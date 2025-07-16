@@ -882,3 +882,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Jul2025 18:16:10.859] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [16Jul2025 18:16:44.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
 [16Jul2025 18:16:44.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 18:17:23.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 18:17:23.749] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 18:18:12.064] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[16Jul2025 18:18:12.067] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[16Jul2025 18:18:18.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[16Jul2025 18:20:32.303] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[16Jul2025 18:20:32.306] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[16Jul2025 18:20:38.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Spider
+[16Jul2025 18:20:39.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[16Jul2025 18:20:56.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[16Jul2025 18:20:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game

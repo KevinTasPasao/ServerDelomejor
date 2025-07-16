@@ -620,3 +620,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16Jul2025 14:38:46.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [16Jul2025 14:38:48.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
 [16Jul2025 14:39:20.950] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
+[16Jul2025 14:45:04.893] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.532 ms. 5487/5648 recipes are parallelized.

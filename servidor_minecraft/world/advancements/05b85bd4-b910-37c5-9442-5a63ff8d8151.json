@@ -84,7 +84,9 @@
       "biomeswevegone:zelkova_forest": "2025-07-15 00:07:22 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 00:45:44 +0000",
       "biomeswevegone:orchard": "2025-07-15 01:00:35 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-16 00:29:34 +0000",
       "biomeswevegone:prairie": "2025-07-15 01:12:05 +0000",
+      "biomeswevegone:aspen_boreal": "2025-07-16 00:40:10 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 00:49:36 +0000"
     },
     "done": false
@@ -1411,7 +1413,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-16 00:39:59 +0000",
+      "minecraft:sparse_jungle": "2025-07-16 00:39:56 +0000",
       "minecraft:river": "2025-07-15 00:44:40 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-16 00:40:15 +0000",
       "minecraft:plains": "2025-07-15 01:12:04 +0000"
     },
     "done": false
@@ -2888,6 +2893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 00:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 23:59:35 +0000"
@@ -2975,6 +2986,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-15 23:59:35 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2025-07-16 00:45:02 +0000"
     },
     "done": true
   },
@@ -3326,6 +3343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 00:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-15 23:54:03 +0000"
@@ -3401,6 +3424,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2025-07-15 23:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-16 00:46:00 +0000"
     },
     "done": true
   },
@@ -3497,6 +3526,12 @@
   "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-07-15 23:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-16 00:45:02 +0000"
     },
     "done": true
   },
@@ -3608,6 +3643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 00:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-15 23:59:45 +0000"
@@ -3692,6 +3733,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2025-07-16 00:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-16 00:12:10 +0000"
@@ -3752,6 +3799,18 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-07-16 00:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-16 00:45:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-07-15 23:48:52 +0000"
@@ -3767,6 +3826,12 @@
   "biomeswevegone:recipes/decorations/rocky_stone_wall": {
     "criteria": {
       "has_rocky_stone": "2025-07-15 23:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 00:45:02 +0000"
     },
     "done": true
   },
@@ -3794,6 +3859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 00:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-15 23:54:03 +0000"
@@ -3815,6 +3886,12 @@
   "biomeswevegone:recipes/building_blocks/mahogany_bookshelf": {
     "criteria": {
       "has_mahogany_planks": "2025-07-15 23:39:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2025-07-16 00:46:00 +0000"
     },
     "done": true
   },

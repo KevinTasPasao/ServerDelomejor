@@ -18,3 +18,44 @@
 [16Jul2025 00:29:41.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [16Jul2025 00:29:59.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [16Jul2025 00:30:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[16Jul2025 00:33:21.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[16Jul2025 00:34:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> yaba man
+[16Jul2025 00:34:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> hay un problema con el maldito krece
+[16Jul2025 00:34:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> me tiene con las bolas llenas
+[16Jul2025 00:34:28.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[16Jul2025 00:34:28.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[16Jul2025 00:37:41.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[16Jul2025 00:39:18.600] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1826, y=-8, z=782}
+[16Jul2025 00:40:32.830] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[16Jul2025 00:40:32.832] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[16Jul2025 00:40:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[16Jul2025 00:41:32.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh fell from a high place
+[16Jul2025 00:41:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1678.500000, 70.500000, 1043.500000]
+[16Jul2025 00:47:54.021] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[16Jul2025 00:47:54.023] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[16Jul2025 00:48:10.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[16Jul2025 00:48:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
+[16Jul2025 00:52:15.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Your First Receptacle]
+[16Jul2025 00:53:30.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[16Jul2025 00:53:30.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[16Jul2025 00:53:36.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:50240] logged in with entity id 37090 at (-1218.591962237891, 64.0, 691.5038839859953)
+[16Jul2025 00:53:36.612] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[16Jul2025 00:53:36.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[16Jul2025 00:53:36.613] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[16Jul2025 00:53:36.614] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[16Jul2025 00:53:36.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[16Jul2025 00:53:36.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[16Jul2025 00:53:36.617] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[16Jul2025 00:53:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[16Jul2025 00:55:56.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[16Jul2025 00:55:56.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[16Jul2025 00:56:01.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:50259] logged in with entity id 37886 at (-1217.9257435087156, 64.0, 691.6089604074626)
+[16Jul2025 00:56:01.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[16Jul2025 00:56:01.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[16Jul2025 00:56:01.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[16Jul2025 00:56:01.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[16Jul2025 00:56:01.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[16Jul2025 00:56:01.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[16Jul2025 00:56:01.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[16Jul2025 00:56:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[16Jul2025 01:01:58.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Isn't It Iron Pick]

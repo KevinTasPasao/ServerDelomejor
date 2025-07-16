@@ -4803,5 +4803,17 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2025-07-16 01:00:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-07-16 01:00:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

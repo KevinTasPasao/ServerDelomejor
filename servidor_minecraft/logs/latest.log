@@ -618,3 +618,102 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [18Jul2025 22:45:38.329] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [18Jul2025 22:45:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
 [18Jul2025 22:45:42.124] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 22:51:49.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:51298] logged in with entity id 3987 at (-2292.7019680720105, 102.0, 1022.5047117907073)
+[18Jul2025 22:51:49.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[18Jul2025 22:51:49.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[18Jul2025 22:51:49.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[18Jul2025 22:51:49.769] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[18Jul2025 22:51:49.771] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[18Jul2025 22:51:49.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[18Jul2025 22:51:49.777] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[18Jul2025 22:51:49.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[18Jul2025 22:51:56.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7125ms or 142 ticks behind
+[18Jul2025 22:53:19.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Acquire Hardware]
+[18Jul2025 22:53:23.885] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 8.684 ms. 5487/5648 recipes are parallelized.
+[18Jul2025 22:53:25.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Suit Up]
+[18Jul2025 22:54:43.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Jul2025 22:55:26.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Isn't It Iron Pick]
+[18Jul2025 22:57:01.419] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 164.4 μs. 249/249 recipes are parallelized.
+[18Jul2025 22:58:46.001] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:46.001] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:46.002] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.350] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.398] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.450] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:58:52.501] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:08.448] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1950, y=-1, z=653}
+[18Jul2025 22:59:34.698] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:34.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:34.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:34.751] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:39.753] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:49.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:59.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:59.148] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 22:59:59.149] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:01.107] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:01.107] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:01.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:01.602] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:01.650] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:04.299] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:05.200] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:07.700] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:07.750] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:16.449] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:20.701] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:32.402] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:32.402] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:00:52.910] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[18Jul2025 23:00:52.915] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 23:00:59.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Komodo Dragon
+[18Jul2025 23:01:01.868] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:01:07.000] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:01:33.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:01:34.198] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:09:15.508] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[18Jul2025 23:09:15.511] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 23:09:20.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe drowned
+[18Jul2025 23:09:20.513] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 23:13:42.537] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[18Jul2025 23:13:42.540] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 23:14:01.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe fell from a high place
+[18Jul2025 23:18:29.305] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[18Jul2025 23:18:29.310] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 23:18:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Mutant Zombie Villager
+[18Jul2025 23:18:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Dark Metallurgy]
+[18Jul2025 23:19:24.558] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[18Jul2025 23:19:24.562] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 23:19:26.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:19:26.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:19:26.204] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:19:47.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Mutant Zombie Villager
+[18Jul2025 23:20:20.556] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2710, y=-36, z=1116}
+[18Jul2025 23:20:20.557] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2710, y=-35, z=1117}
+[18Jul2025 23:20:20.557] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2713, y=-32, z=1118}
+[18Jul2025 23:20:20.559] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2718, y=-32, z=1115}
+[18Jul2025 23:20:20.560] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2714, y=-31, z=1118}
+[18Jul2025 23:20:20.851] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2710, y=-36, z=1129}
+[18Jul2025 23:20:20.852] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2710, y=-36, z=1123}
+[18Jul2025 23:20:20.852] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2715, y=-36, z=1129}
+[18Jul2025 23:20:24.840] [Worker-Main-32/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2724, y=-32, z=1129}
+[18Jul2025 23:20:24.840] [Worker-Main-32/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2724, y=-32, z=1123}
+[18Jul2025 23:20:28.122] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[18Jul2025 23:20:28.127] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[18Jul2025 23:20:52.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Mutant Zombie Villager
+[18Jul2025 23:20:54.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:22:14.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:22:14.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:22:14.151] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:23:36.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:23:36.851] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:27:08.201] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:27:08.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:27:08.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:27:25.850] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already

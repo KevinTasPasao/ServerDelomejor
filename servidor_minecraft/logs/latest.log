@@ -717,3 +717,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [18Jul2025 23:27:08.250] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
 [18Jul2025 23:27:08.251] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
 [18Jul2025 23:27:25.850] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:32:55.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Half a flight]
+[18Jul2025 23:33:29.799] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:33:29.800] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:35:30.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[18Jul2025 23:35:30.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[18Jul2025 23:35:38.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:49404] logged in with entity id 36173 at (-1022.7130322994064, 92.0, 579.7332630674842)
+[18Jul2025 23:35:38.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[18Jul2025 23:35:38.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[18Jul2025 23:35:38.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[18Jul2025 23:35:38.630] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[18Jul2025 23:35:38.631] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[18Jul2025 23:35:38.634] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[18Jul2025 23:35:38.634] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[18Jul2025 23:35:38.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[18Jul2025 23:35:38.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:35:38.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[18Jul2025 23:38:25.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[18Jul2025 23:38:25.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game

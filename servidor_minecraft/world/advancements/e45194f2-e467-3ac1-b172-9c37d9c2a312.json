@@ -6365,15 +6365,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_stripped_logs": "2025-07-18 22:57:41 +0000"
+      "has_brick": "2025-07-18 22:55:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_melon": "2025-07-18 22:58:38 +0000"
+      "has_brick": "2025-07-18 22:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-18 22:57:41 +0000"
     },
     "done": true
   },
@@ -6383,27 +6389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-18 22:58:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-07-18 22:58:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-07-18 22:55:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-07-18 22:58:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-07-18 22:55:25 +0000"
     },
     "done": true
   },

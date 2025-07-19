@@ -659,3 +659,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 16:12:31.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Acolyte
 [19Jul2025 16:14:29.645] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [19Jul2025 16:14:29.650] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 16:21:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [You Need a Mint]

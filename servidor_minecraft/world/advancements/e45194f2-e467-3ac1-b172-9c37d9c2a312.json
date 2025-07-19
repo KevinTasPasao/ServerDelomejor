@@ -1430,6 +1430,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-15 17:09:36 +0000",
       "minecraft:taiga": "2025-07-16 16:34:05 +0000",
+      "minecraft:cherry_grove": "2025-07-19 20:52:14 +0000",
       "minecraft:beach": "2025-07-15 16:47:33 +0000",
       "minecraft:sparse_jungle": "2025-07-16 00:43:50 +0000",
       "minecraft:river": "2025-07-15 00:23:51 +0000",
@@ -3467,6 +3468,7 @@
       "minecraft:pillager": "2025-07-19 15:04:19 +0000",
       "minecraft:skeleton": "2025-07-15 15:01:41 +0000",
       "minecraft:spider": "2025-07-15 03:49:59 +0000",
+      "minecraft:piglin_brute": "2025-07-19 20:56:21 +0000",
       "minecraft:phantom": "2025-07-19 19:45:08 +0000",
       "minecraft:cave_spider": "2025-07-16 01:29:02 +0000",
       "minecraft:zombie": "2025-07-15 03:45:51 +0000",
@@ -6451,6 +6453,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-07-19 20:56:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
@@ -6661,6 +6669,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-07-19 15:49:59 +0000"
@@ -6706,6 +6720,12 @@
   "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
     "criteria": {
       "has_jacaranda_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
     },
     "done": true
   },
@@ -6796,6 +6816,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-07-19 19:48:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
     },
     "done": true
   },
@@ -6937,6 +6963,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-07-19 16:21:33 +0000"
@@ -6952,6 +6984,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-07-19 18:26:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-07-19 20:53:24 +0000"
     },
     "done": true
   },
@@ -7006,6 +7044,12 @@
   "biomeswevegone:recipes/redstone/mahogany_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
     },
     "done": true
   },
@@ -7096,6 +7140,12 @@
   "biomeswevegone:recipes/redstone/ebony_door": {
     "criteria": {
       "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-19 20:40:21 +0000"
     },
     "done": true
   },
@@ -7195,6 +7245,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-07-19 19:45:08 +0000"
@@ -7222,6 +7278,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
     },
     "done": true
   },

@@ -817,3 +817,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 20:41:09.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=81, z=485} BlockPos{x=-1065, y=80, z=485}
 [19Jul2025 20:41:39.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1034, y=86, z=490} BlockPos{x=-1034, y=84, z=491}
 [19Jul2025 20:42:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [A Seedy Place]
+[19Jul2025 20:44:44.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:45:06.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1086, y=78, z=494} BlockPos{x=-1088, y=77, z=495}
+[19Jul2025 20:45:06.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1086, y=78, z=494} BlockPos{x=-1088, y=77, z=495}
+[19Jul2025 20:51:32.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:51:32.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:51:52.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:51:53.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:51:53.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:52:00.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:52:34.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:52:34.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:52:34.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:52:43.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[19Jul2025 20:52:55.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[19Jul2025 20:53:43.180] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 20:53:43.303] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 20:55:06.992] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 20:55:06.995] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 20:55:20.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 20:56:34.212] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Jul2025 20:56:34.224] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Jul2025 20:56:34.332] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Jul2025 20:56:34.450] [Worker-Main-283/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Jul2025 20:56:36.304] [Worker-Main-261/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Jul2025 20:56:36.315] [Worker-Main-261/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[19Jul2025 20:56:37.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6260ms or 125 ticks behind
+[19Jul2025 20:56:46.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Chattering Teeth]
+[19Jul2025 20:57:16.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Chattering Teeth]
+[19Jul2025 20:59:22.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A Little Hot Rod Red]
+[19Jul2025 20:59:40.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [A Little Hot Rod Red]
+[19Jul2025 21:01:03.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[19Jul2025 21:01:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[19Jul2025 21:03:01.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!

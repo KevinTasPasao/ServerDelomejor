@@ -850,3 +850,52 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 21:01:03.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
 [19Jul2025 21:01:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
 [19Jul2025 21:03:01.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[19Jul2025 21:03:32.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 21:03:49.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
+[19Jul2025 21:03:59.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [What a Deal!]
+[19Jul2025 21:05:42.236] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:05:52.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:05:52.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:05:52.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:05:52.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:05:57.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:06:09.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:06:12.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.3755661262251806,-1.593481493955551E-5,-10.462643897539692
+[19Jul2025 21:06:24.387] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:06:26.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:07:00.306] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:07:42.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[19Jul2025 21:07:46.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[19Jul2025 21:07:51.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[19Jul2025 21:16:24.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Forever Dawn?]
+[19Jul2025 21:16:24.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 53552ms or 1071 ticks behind
+[19Jul2025 21:16:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Forever Dawn?]
+[19Jul2025 21:17:22.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
+[19Jul2025 21:17:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[19Jul2025 21:17:22.420] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 21:17:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [A New Dawn]
+[19Jul2025 21:20:59.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:50669] logged in with entity id 107472 at (-775.5, 68.0, -845.5)
+[19Jul2025 21:20:59.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[19Jul2025 21:20:59.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[19Jul2025 21:20:59.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[19Jul2025 21:20:59.320] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[19Jul2025 21:20:59.321] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[19Jul2025 21:20:59.323] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[19Jul2025 21:20:59.324] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[19Jul2025 21:20:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[19Jul2025 21:26:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Light Up The World!]
+[19Jul2025 21:27:07.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 21:27:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [The Wizard's Tower]
+[19Jul2025 21:27:26.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [The Wizard's Tower]
+[19Jul2025 21:27:55.744] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 21:27:55.749] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 21:28:04.744] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 21:28:04.748] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 21:28:22.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Vindicator
+[19Jul2025 21:28:23.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:28:23.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 21:29:44.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A Swift Upgrade]
+[19Jul2025 21:29:48.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [1 Down, 3 to go]
+[19Jul2025 21:32:20.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [1 Down, 3 to go]
+[19Jul2025 21:32:29.893] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 21:32:29.896] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved

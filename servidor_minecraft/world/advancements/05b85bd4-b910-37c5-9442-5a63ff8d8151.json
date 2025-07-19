@@ -90,6 +90,7 @@
       "biomeswevegone:prairie": "2025-07-15 01:12:05 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-16 00:40:10 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 00:49:36 +0000",
+      "biomeswevegone:skyrise_vale": "2025-07-19 21:06:35 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-19 17:25:17 +0000"
     },
     "done": false
@@ -4582,6 +4583,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-07-19 18:29:43 +0000"
@@ -4639,6 +4646,12 @@
   "alexscaves:alexscaves/burrowing_arrow": {
     "criteria": {
       "burrowing_arrow": "2025-07-19 20:57:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
     },
     "done": true
   },
@@ -4756,9 +4769,21 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everdawn": "2025-07-19 21:16:28 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-07-19 20:36:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
     },
     "done": true
   },
@@ -4777,6 +4802,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
     },
     "done": true
   },
@@ -4801,6 +4832,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-07-19 18:32:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_planks": {
+    "criteria": {
+      "has_item": "2025-07-19 21:17:38 +0000"
     },
     "done": true
   },
@@ -4837,6 +4874,12 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-19 21:04:13 +0000"
     },
     "done": true
   },
@@ -4903,6 +4946,12 @@
   "biomeswevegone:recipes/building_blocks/ebony_bookshelf": {
     "criteria": {
       "has_ebony_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
     },
     "done": true
   },
@@ -4980,6 +5029,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-07-19 21:30:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
@@ -4989,6 +5050,12 @@
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_wood": "2025-07-19 18:21:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
     },
     "done": true
   },
@@ -5007,6 +5074,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 15:18:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
     },
     "done": true
   },
@@ -5031,6 +5104,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-07-19 18:29:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-07-19 21:16:28 +0000"
     },
     "done": true
   },
@@ -5148,6 +5227,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-07-19 19:42:45 +0000"
@@ -5238,6 +5329,12 @@
     },
     "done": true
   },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 15:18:56 +0000"
@@ -5283,6 +5380,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
     },
     "done": true
   },
@@ -5376,6 +5479,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-19 19:42:45 +0000"
@@ -5394,9 +5509,21 @@
     },
     "done": true
   },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2025-07-19 21:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-07-19 18:29:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
     },
     "done": true
   },
@@ -5416,6 +5543,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-19 21:04:13 +0000"
     },
     "done": true
   },
@@ -5449,6 +5582,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-07-19 17:32:58 +0000"
@@ -5464,6 +5603,12 @@
   "mcwfurnitures:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-07-19 19:38:18 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-19 21:04:13 +0000"
     },
     "done": true
   },
@@ -5488,6 +5633,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-07-19 18:32:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-07-19 21:26:57 +0000"
     },
     "done": true
   },
@@ -5539,6 +5690,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everbright/get_ventium": {
     "criteria": {
       "obtain_material": "2025-07-19 20:59:40 +0000"
@@ -5563,6 +5720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-07-19 19:38:21 +0000"
@@ -5572,6 +5735,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-07-19 18:29:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-19 21:04:13 +0000"
     },
     "done": true
   },
@@ -5608,6 +5777,12 @@
   "biomeswevegone:recipes/decorations/ebony_crafting_table": {
     "criteria": {
       "has_ebony_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-19 21:03:59 +0000"
     },
     "done": true
   },
@@ -5683,6 +5858,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -5713,6 +5894,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-07-19 21:26:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-19 19:38:18 +0000"
@@ -5728,6 +5915,12 @@
   "biomeswevegone:recipes/redstone/ebony_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_dusk_log": "2025-07-19 21:17:38 +0000"
     },
     "done": true
   },
@@ -5869,6 +6062,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_ladder": {
+    "criteria": {
+      "has_item": "2025-07-19 21:17:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-07-19 21:04:13 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -5959,6 +6164,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_chest": {
+    "criteria": {
+      "has_item": "2025-07-19 21:17:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -5994,6 +6205,12 @@
       "has_planks": "2025-07-19 19:46:24 +0000"
     },
     "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everdawn": "2025-07-19 21:16:28 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {

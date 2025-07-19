@@ -3467,6 +3467,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-19 15:04:19 +0000",
       "minecraft:skeleton": "2025-07-15 15:01:41 +0000",
+      "minecraft:vindicator": "2025-07-19 21:28:44 +0000",
       "minecraft:spider": "2025-07-15 03:49:59 +0000",
       "minecraft:piglin_brute": "2025-07-19 20:56:21 +0000",
       "minecraft:phantom": "2025-07-19 19:45:08 +0000",
@@ -6411,51 +6412,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_bricks": "2025-07-19 17:43:20 +0000"
+      "voluntary_exile": "2025-07-19 15:04:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "has_brown_wool": "2025-07-19 18:26:29 +0000"
+      "coded_trigger": "2025-07-19 15:04:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
+  "mcwwindows:recipes/curtains": {
     "criteria": {
-      "has_bricks": "2025-07-19 17:43:20 +0000"
+      "has_wood": "2025-07-19 15:06:31 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
+      "has_white_wool": "2025-07-19 15:06:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+      "has_wool": "2025-07-19 15:06:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_brown_wool": "2025-07-19 18:26:29 +0000"
+      "has_white_wool": "2025-07-19 15:06:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
+  "immersive_armors:recipes/misc/robe": {
     "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+      "has_item": "2025-07-19 15:06:31 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "burrowing_arrow": "2025-07-19 20:56:46 +0000"
+      "has_white_wool": "2025-07-19 15:06:31 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2025-07-19 15:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-19 15:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-19 15:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_dacite_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_white_dacite_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-19 15:49:59 +0000"
     },
     "done": true
   },
@@ -6468,90 +6541,6 @@
   "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2025-07-19 18:08:13 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-07-19 19:46:35 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/jacaranda_door": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/curtains": {
-    "criteria": {
-      "has_wood": "2025-07-19 15:06:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-07-19 18:26:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
-    "criteria": {
-      "has_2_dye_tag": "2025-07-19 19:27:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-07-19 17:43:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-07-19 16:35:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-07-19 15:22:44 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-07-19 15:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-07-19 18:14:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-07-19 18:26:27 +0000"
     },
     "done": true
   },
@@ -6573,42 +6562,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/ebony_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-07-19 16:23:08 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/ebony_bookshelf": {
-    "criteria": {
-      "has_ebony_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-07-19 16:57:34 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/ebony_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/jacaranda_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
@@ -6627,72 +6580,6 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-07-19 18:13:00 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/mahogany_crafting_table": {
-    "criteria": {
-      "has_mahogany_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-07-19 18:26:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-07-19 17:43:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-19 15:49:59 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_bucket": {
-    "criteria": {
-      "has_item": "2025-07-19 20:59:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-07-19 15:49:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-19 18:08:13 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
@@ -6705,135 +6592,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-07-19 18:14:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-07-19 15:49:59 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
-    "criteria": {
-      "has_jacaranda_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/tool_box": {
-    "criteria": {
-      "has_item": "2025-07-19 20:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-07-19 18:26:27 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/ebony_wood": {
-    "criteria": {
-      "has_log": "2025-07-19 19:28:09 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/mahogany_planks": {
-    "criteria": {
-      "has_log": "2025-07-19 18:10:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-07-19 15:06:31 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-07-19 18:10:54 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-07-19 16:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-19 16:34:56 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/ebony_slab": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-07-19 19:48:16 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_shears": {
-    "criteria": {
-      "has_item": "2025-07-19 20:59:22 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/jacaranda_fence": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-07-19 18:26:27 +0000"
     },
     "done": true
   },
@@ -6843,75 +6604,9 @@
     },
     "done": true
   },
-  "iammusicplayer:iammusicplayer/listen_to_music": {
-    "criteria": {
-      "listen_to_music": "2025-07-19 20:26:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2025-07-19 15:53:39 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/find_skeleton": {
-    "criteria": {
-      "skeleton": "2025-07-19 15:20:41 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-07-19 18:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-07-19 18:26:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/ebony_fence": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/jacaranda_button": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-07-19 15:22:44 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-07-19 17:36:17 +0000"
     },
     "done": true
   },
@@ -6921,39 +6616,9 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-07-19 19:26:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-07-19 15:06:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-07-19 17:43:20 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-07-19 19:26:14 +0000"
     },
     "done": true
   },
@@ -6963,207 +6628,15 @@
     },
     "done": true
   },
-  "blue_skies:everbright/get_ventium": {
-    "criteria": {
-      "obtain_material": "2025-07-19 20:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-07-19 16:21:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-07-19 18:26:23 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_house": {
-    "criteria": {
-      "location0": "2025-07-19 20:53:24 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/ebony_crafting_table": {
-    "criteria": {
-      "has_ebony_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-07-19 15:06:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/jacaranda_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-19 15:49:59 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/jacaranda_bookshelf": {
-    "criteria": {
-      "has_jacaranda_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/jacaranda_sign": {
-    "criteria": {
-      "has_planks": "2025-07-19 17:47:33 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/anvil_compat": {
-    "criteria": {
-      "has_item": "2025-07-19 20:59:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-07-19 19:26:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-07-19 16:57:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/ebony_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_dacite_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-19 15:49:59 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-07-19 19:48:16 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/robe": {
-    "criteria": {
-      "has_item": "2025-07-19 15:06:31 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-07-19 15:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-07-19 15:06:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-19 19:26:14 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/ebony_door": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-07-19 20:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-19 15:49:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-07-19 16:23:08 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/ebony_planks": {
-    "criteria": {
-      "has_log": "2025-07-19 19:28:09 +0000"
     },
     "done": true
   },
@@ -7179,63 +6652,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/mahogany_bookshelf": {
-    "criteria": {
-      "has_mahogany_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/ebony_button": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-07-19 17:43:20 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/mahogany_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-07-19 15:49:59 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-19 18:10:40 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/ebony_sign": {
-    "criteria": {
-      "has_planks": "2025-07-19 19:51:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_white_dacite_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-19 15:49:59 +0000"
     },
     "done": true
   },
@@ -7245,21 +6664,111 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/ventium_block": {
+  "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
-      "has_item": "2025-07-19 20:59:22 +0000"
+      "has_iron_bars": "2025-07-19 15:53:39 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "phantom": "2025-07-19 19:45:08 +0000"
+      "dragon_breath": "2025-07-19 16:21:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_iron_block": "2025-07-19 18:08:13 +0000"
+      "has_soul_sand": "2025-07-19 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-19 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
     },
     "done": true
   },
@@ -7269,21 +6778,663 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-19 16:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-07-19 16:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-19 16:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-19 16:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-19 16:57:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-19 17:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-07-19 17:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-07-19 17:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-19 17:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-07-19 17:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-19 17:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-07-19 17:43:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_bookshelf": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 17:47:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-07-19 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 18:08:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/mahogany_crafting_table": {
+    "criteria": {
+      "has_mahogany_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_bookshelf": {
+    "criteria": {
+      "has_mahogany_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 18:10:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 18:10:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 18:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-19 18:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-19 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-19 18:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-19 18:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-19 18:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-19 18:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-19 18:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-19 18:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-19 18:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-19 18:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-19 18:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-19 18:26:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-07-19 18:28:26 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:26:14 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 19:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-07-19 19:27:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:28:09 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 19:28:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-07-19 19:45:08 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-07-19 19:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-19 19:48:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-19 19:48:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_bookshelf": {
+    "criteria": {
+      "has_ebony_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/ebony_crafting_table": {
+    "criteria": {
+      "has_ebony_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/ebony_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/ebony_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-19 19:51:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
-      "has_moss_block": "2025-07-19 15:49:59 +0000"
+      "listen_to_music": "2025-07-19 20:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-19 20:40:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-07-19 20:53:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-07-19 20:56:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-07-19 20:59:22 +0000"
     },
     "done": true
   },
   "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-07-19 20:59:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everdawn": "2025-07-19 21:16:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-07-19 21:16:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everdawn": "2025-07-19 21:16:24 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/blue_dye_from_nightcress": {
+    "criteria": {
+      "has_item": "2025-07-19 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2025-07-19 21:27:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-19 21:29:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-07-19 21:29:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:44 +0000"
     },
     "done": true
   },

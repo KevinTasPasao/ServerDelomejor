@@ -802,3 +802,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 20:17:13.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
 [19Jul2025 20:18:58.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
 [19Jul2025 20:20:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Music register]
+[19Jul2025 20:23:50.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Writing...]
+[19Jul2025 20:26:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [DJ! DJ!]
+[19Jul2025 20:26:43.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [DJ! DJ!]

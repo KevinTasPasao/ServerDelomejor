@@ -3464,6 +3464,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-19 15:04:19 +0000",
       "minecraft:skeleton": "2025-07-15 15:01:41 +0000",
       "minecraft:spider": "2025-07-15 03:49:59 +0000",
       "minecraft:cave_spider": "2025-07-16 01:29:02 +0000",
@@ -6407,77 +6408,53 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "mcwwindows:recipes/curtains": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "has_wood": "2025-07-19 15:06:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "voluntary_exile": "2025-07-19 15:04:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "has_white_wool": "2025-07-19 15:06:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "has_wool": "2025-07-19 15:06:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "has_white_wool": "2025-07-19 15:06:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "immersive_armors:recipes/misc/robe": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "has_item": "2025-07-19 15:06:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "coded_trigger": "2025-07-19 15:04:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
+      "has_white_wool": "2025-07-19 15:06:31 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-19 00:10:43 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

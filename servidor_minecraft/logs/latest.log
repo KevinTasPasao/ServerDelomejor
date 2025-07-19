@@ -634,3 +634,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 22:05:25.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was chomped by Nyctofly
 [19Jul2025 22:05:27.895] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
 [19Jul2025 22:05:46.049] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.249 ms. 5487/5648 recipes are parallelized.
+[19Jul2025 22:07:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Bane of my Existence]
+[19Jul2025 22:10:37.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [A New Dawn]
+[19Jul2025 22:22:59.843] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 22:22:59.848] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 22:23:48.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Vindicator
+[19Jul2025 22:24:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Fortuitous Militia]

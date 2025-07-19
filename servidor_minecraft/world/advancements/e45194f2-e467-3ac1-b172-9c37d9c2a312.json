@@ -7306,15 +7306,21 @@
     },
     "done": false
   },
-  "blue_skies:recipes/misc/pyrope_block": {
-    "criteria": {
-      "has_item": "2025-07-19 21:29:44 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/blue_dye_from_nightcress": {
     "criteria": {
       "has_item": "2025-07-19 21:23:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2025-07-19 21:27:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:44 +0000"
     },
     "done": true
   },
@@ -7342,57 +7348,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/blinding_wall": {
-    "criteria": {
-      "has_item": "2025-07-19 21:29:58 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-07-19 21:29:58 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_slab": {
-    "criteria": {
-      "has_item": "2025-07-19 21:29:58 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
     "criteria": {
       "has_resource": "2025-07-19 21:29:44 +0000"
     },
     "done": true
   },
-  "blue_skies:enter_blinding_dungeon": {
-    "criteria": {
-      "entered_everdawn_blinding_dungeon": "2025-07-19 21:27:17 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-07-19 21:29:58 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/pyrope_boots": {
     "criteria": {
       "has_item": "2025-07-19 21:29:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-07-19 21:29:58 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_stairs": {
-    "criteria": {
-      "has_item": "2025-07-19 21:29:58 +0000"
     },
     "done": true
   },
@@ -7414,9 +7378,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+  "blue_skies:recipes/combat/pyrope_chestplate": {
     "criteria": {
-      "has_item": "2025-07-19 21:29:58 +0000"
+      "has_item": "2025-07-19 21:29:44 +0000"
     },
     "done": true
   },
@@ -7426,15 +7390,69 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/blinding_wall": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 21:29:58 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
     "criteria": {
       "has_item": "2025-07-19 21:29:58 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/pyrope_chestplate": {
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
     "criteria": {
-      "has_item": "2025-07-19 21:29:44 +0000"
+      "click_keystone": "2025-07-19 21:36:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/scalefruit_seeds": {
+    "criteria": {
+      "has_item": "2025-07-19 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:regrowth": {
+    "criteria": {
+      "have_sapling": "2025-07-19 21:59:22 +0000"
     },
     "done": true
   },

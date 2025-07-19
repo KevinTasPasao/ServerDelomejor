@@ -640,3 +640,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 22:22:59.848] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [19Jul2025 22:23:48.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Vindicator
 [19Jul2025 22:24:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Fortuitous Militia]
+[19Jul2025 22:26:56.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Quite The Boost]
+[19Jul2025 22:26:59.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Tough to Beat]
+[19Jul2025 22:28:47.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Alchemist scaled to 1 player(s). The difficulty ID is SILVER. The position is BlockPos{x=-2111, y=115, z=-1087}
+[19Jul2025 22:29:47.294] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 22:29:47.296] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 22:29:47.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 1.2445167791438507,7.0,7.322115797142942
+[19Jul2025 22:29:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Alchemist
+[19Jul2025 22:31:32.693] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 22:31:32.697] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 22:31:32.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -7.84401869507883,7.110521828355445,2.1105904433711657
+[19Jul2025 22:31:40.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Alchemist using magic
+[19Jul2025 22:34:49.491] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 22:34:49.500] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 22:34:49.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -5.088726537280763,8.001335979112142,6.015755659374463
+[19Jul2025 22:34:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was stabbed with a spike by Alchemist

@@ -7451,6 +7451,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/comet_berry_pie_with_ventium": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-19 22:16:03 +0000"
@@ -7460,6 +7472,12 @@
   "blue_skies:everdawn/poison_shroom": {
     "criteria": {
       "touch_shroom": "2025-07-19 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/comet_berry_pie_with_iron": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:53 +0000"
     },
     "done": true
   },
@@ -7475,6 +7493,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 22:24:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
     "criteria": {
       "has_item": "2025-07-19 22:16:03 +0000"
@@ -7487,9 +7523,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/yellow_dye_from_lucentroot": {
     "criteria": {
       "has_item": "2025-07-19 22:06:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:59 +0000"
     },
     "done": true
   },
@@ -7499,9 +7553,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-19 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:59 +0000"
     },
     "done": true
   },
@@ -7523,15 +7595,63 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-07-19 22:05:08 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-19 22:16:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2025-07-19 22:26:56 +0000"
     },
     "done": true
   },
@@ -7550,6 +7670,18 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-19 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/diopside_block": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:56 +0000"
     },
     "done": true
   },
@@ -7583,6 +7715,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/furnace_compat": {
     "criteria": {
       "has_item": "2025-07-19 22:16:03 +0000"
@@ -7601,6 +7745,12 @@
       "kill_nyctofly": "2025-07-19 22:04:36 +0000"
     },
     "done": false
+  },
+  "blue_skies:recipes/misc/aquite_block": {
+    "criteria": {
+      "has_item": "2025-07-19 22:26:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -635,3 +635,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 15:18:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [19Jul2025 15:20:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Pseudo Archaeologist]
 [19Jul2025 15:23:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Ashes 'n Bones]
+[19Jul2025 15:42:07.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [It's not time to tan]
+[19Jul2025 15:42:07.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 15:42:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[19Jul2025 15:42:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[19Jul2025 15:54:12.941] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 15:54:12.944] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 15:54:24.942] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 15:54:24.945] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 15:54:46.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[19Jul2025 15:55:11.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[19Jul2025 15:55:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [I can't breathe]
+[19Jul2025 16:02:17.790] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 16:02:17.795] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 16:03:22.441] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 16:03:22.444] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 16:03:48.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 16:06:38.041] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 16:06:38.043] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 16:06:55.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]

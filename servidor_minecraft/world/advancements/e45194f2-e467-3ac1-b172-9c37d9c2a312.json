@@ -6565,15 +6565,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-07-19 16:23:08 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/ebony_bookshelf": {
+    "criteria": {
+      "has_ebony_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-07-19 16:57:34 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
     },
     "done": true
   },
@@ -6763,6 +6781,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/ebony_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
@@ -6820,6 +6844,12 @@
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
     },
     "done": true
   },
@@ -6919,6 +6949,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/ebony_crafting_table": {
+    "criteria": {
+      "has_ebony_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-19 15:06:31 +0000"
@@ -6991,6 +7027,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/ebony_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
@@ -7045,6 +7087,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-19 15:49:59 +0000"
@@ -7087,6 +7135,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/ebony_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-19 17:43:20 +0000"
@@ -7117,6 +7171,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/ebony_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_white_dacite_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-19 15:49:59 +0000"
@@ -7144,6 +7204,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-19 16:28:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:51:25 +0000"
     },
     "done": true
   },

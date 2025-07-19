@@ -796,3 +796,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 19:47:51.792] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [19Jul2025 19:48:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [19Jul2025 19:51:16.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[19Jul2025 19:53:45.514] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 546.4 μs. 1043/1043 recipes are parallelized.

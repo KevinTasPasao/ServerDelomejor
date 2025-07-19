@@ -4597,6 +4597,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -4612,6 +4618,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-19 18:32:29 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -4645,6 +4657,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:38:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 15:18:56 +0000"
@@ -4672,6 +4690,18 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-07-19 18:29:41 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:38:17 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -4744,6 +4774,12 @@
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -4893,6 +4929,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -4959,6 +5001,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:38:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -4971,6 +5031,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/deepslate": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-07-19 17:30:25 +0000"
@@ -4980,6 +5052,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-07-19 18:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -5049,6 +5127,13 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:38:21 +0000",
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
@@ -5079,9 +5164,21 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:38:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blackstone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -5115,6 +5212,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:38:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -5130,6 +5233,12 @@
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -5217,9 +5326,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 19:38:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/granite": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -5247,6 +5374,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:38:18 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/red_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-07-19 17:30:56 +0000"
@@ -5256,6 +5395,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-19 18:32:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 19:38:16 +0000"
     },
     "done": true
   },
@@ -5277,9 +5422,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
     },
     "done": true
   },
@@ -5325,6 +5482,18 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
@@ -5346,6 +5515,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-07-19 15:23:31 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 19:38:17 +0000"
     },
     "done": true
   },

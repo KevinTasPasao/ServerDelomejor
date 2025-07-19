@@ -6492,6 +6492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-07-19 19:27:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-07-19 17:43:20 +0000"
@@ -6684,6 +6690,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/ebony_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:28:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_log": "2025-07-19 18:10:54 +0000"
@@ -6834,6 +6846,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-19 15:06:31 +0000"
@@ -6855,6 +6873,12 @@
   "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:26:14 +0000"
     },
     "done": true
   },
@@ -6930,6 +6954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 19:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-07-19 16:57:34 +0000"
@@ -6990,6 +7020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-19 19:26:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-19 15:49:59 +0000"
@@ -6999,6 +7035,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-07-19 16:23:08 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-07-19 19:28:09 +0000"
     },
     "done": true
   },

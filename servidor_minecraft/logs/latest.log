@@ -805,3 +805,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 20:23:50.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Writing...]
 [19Jul2025 20:26:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [DJ! DJ!]
 [19Jul2025 20:26:43.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [DJ! DJ!]
+[19Jul2025 20:36:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Diamonds!]
+[19Jul2025 20:39:53.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1052, y=82, z=496} BlockPos{x=-1052, y=81, z=494}
+[19Jul2025 20:39:57.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 20:40:04.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1051, y=84, z=480} BlockPos{x=-1050, y=82, z=480}
+[19Jul2025 20:40:07.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1052, y=83, z=486} BlockPos{x=-1052, y=83, z=485}
+[19Jul2025 20:40:07.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1052, y=83, z=486} BlockPos{x=-1052, y=83, z=485}
+[19Jul2025 20:40:07.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1052, y=83, z=486} BlockPos{x=-1052, y=83, z=485}
+[19Jul2025 20:41:09.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=81, z=486} BlockPos{x=-1065, y=80, z=486}
+[19Jul2025 20:41:09.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1067, y=81, z=486} BlockPos{x=-1065, y=80, z=486}
+[19Jul2025 20:41:09.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1066, y=81, z=485} BlockPos{x=-1065, y=80, z=485}
+[19Jul2025 20:41:39.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1034, y=86, z=490} BlockPos{x=-1034, y=84, z=491}
+[19Jul2025 20:42:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [A Seedy Place]

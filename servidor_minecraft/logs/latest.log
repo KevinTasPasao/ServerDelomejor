@@ -674,3 +674,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 23:03:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [19Jul2025 23:05:23.856] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [19Jul2025 23:05:23.912] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 23:08:15.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Timed out
+[19Jul2025 23:08:15.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[19Jul2025 23:08:15.445] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jul2025 23:08:53.642] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 23:08:53.645] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 23:09:53.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Alchemist using magic

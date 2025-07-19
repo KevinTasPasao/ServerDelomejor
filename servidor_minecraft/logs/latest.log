@@ -660,3 +660,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 16:14:29.645] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [19Jul2025 16:14:29.650] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [19Jul2025 16:21:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [You Need a Mint]
+[19Jul2025 16:34:47.793] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 16:34:47.796] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 16:35:08.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Cover Me with Diamonds]
+[19Jul2025 16:35:33.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 16:35:47.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was slain by Wraith
+[19Jul2025 16:43:27.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[19Jul2025 16:43:54.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[19Jul2025 16:43:54.546] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 16:43:54.549] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 16:44:04.546] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 16:44:04.549] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 16:44:21.246] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 16:44:21.249] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 16:48:19.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4073ms or 81 ticks behind
+[19Jul2025 16:51:46.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2291.500000, 102.500000, 1024.500000]
+[19Jul2025 16:54:20.805] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2697, y=110, z=150} but found not block entity block Block{minecraft:air} at location
+[19Jul2025 16:54:20.805] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2697, y=110, z=150}
+[19Jul2025 16:54:40.850] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2701, y=113, z=147} but found not block entity block Block{minecraft:air} at location
+[19Jul2025 16:54:40.851] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2701, y=113, z=147}
+[19Jul2025 16:55:29.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[19Jul2025 17:01:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Sweet Dreams]
+[19Jul2025 17:09:53.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 17:10:56.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2291.500000, 102.500000, 1024.500000]
+[19Jul2025 17:10:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[19Jul2025 17:17:56.841] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 17:17:56.845] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[19Jul2025 17:18:29.991] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 17:18:29.995] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 17:18:37.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Knees bent and feet together]
+[19Jul2025 17:18:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Life turned out to be a comedy]
+[19Jul2025 17:20:16.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:16.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:19.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:19.037] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:19.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:19.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:45.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:45.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:45.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:45.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:20:45.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:21:47.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:22:12.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:22:18.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:22:18.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:22:37.737] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:23:24.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:23:27.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:25:47.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:25:47.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:26:19.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 17:27:29.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has reached the goal [Pray to the Goddess]

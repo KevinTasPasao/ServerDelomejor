@@ -87,7 +87,8 @@
       "biomeswevegone:amaranth_grassland": "2025-07-16 00:29:34 +0000",
       "biomeswevegone:prairie": "2025-07-15 01:12:05 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-16 00:40:10 +0000",
-      "biomeswevegone:dacite_ridges": "2025-07-15 00:49:36 +0000"
+      "biomeswevegone:dacite_ridges": "2025-07-15 00:49:36 +0000",
+      "biomeswevegone:allium_shrubland": "2025-07-19 17:25:17 +0000"
     },
     "done": false
   },
@@ -1417,6 +1418,7 @@
       "minecraft:sparse_jungle": "2025-07-16 00:39:56 +0000",
       "minecraft:river": "2025-07-15 00:44:40 +0000",
       "minecraft:dripstone_caves": "2025-07-16 01:27:57 +0000",
+      "minecraft:forest": "2025-07-19 17:23:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-16 00:40:15 +0000",
       "minecraft:plains": "2025-07-15 01:12:04 +0000"
     },
@@ -4599,6 +4601,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-19 17:01:19 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_tower_shield": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 15:18:56 +0000"
@@ -4644,7 +4652,8 @@
   "tombstone:adventure/death_master": {
     "criteria": {
       "has_prevent_burn": "2025-07-19 15:42:07 +0000",
-      "has_prevent_suffocation": "2025-07-19 15:55:33 +0000"
+      "has_prevent_suffocation": "2025-07-19 15:55:33 +0000",
+      "has_prevent_lightning": "2025-07-19 17:18:37 +0000"
     },
     "done": false
   },
@@ -4738,9 +4747,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-07-19 17:18:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_lightning": {
+    "criteria": {
+      "coded_trigger": "2025-07-19 17:18:37 +0000"
     },
     "done": true
   },

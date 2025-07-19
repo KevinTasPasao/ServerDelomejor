@@ -7451,6 +7451,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_chest": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:46 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/comet_berry_pie_with_ventium": {
     "criteria": {
       "has_item": "2025-07-19 22:26:53 +0000"
@@ -7469,6 +7475,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everdawn/poison_shroom": {
     "criteria": {
       "touch_shroom": "2025-07-19 22:07:02 +0000"
@@ -7478,6 +7490,18 @@
   "blue_skies:recipes/food/comet_berry_pie_with_iron": {
     "criteria": {
       "has_item": "2025-07-19 22:26:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:46:55 +0000"
     },
     "done": true
   },
@@ -7517,6 +7541,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:44 +0000"
+    },
+    "done": true
+  },
   "blue_skies:regrowth": {
     "criteria": {
       "have_sapling": "2025-07-19 21:59:22 +0000"
@@ -7547,15 +7577,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
     "criteria": {
       "has_resource": "2025-07-19 22:16:03 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:46 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/diopside_sword": {
     "criteria": {
       "has_resource": "2025-07-19 22:26:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-19 22:52:58 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
     },
     "done": true
   },
@@ -7607,6 +7661,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/lunar_stone": {
+    "criteria": {
+      "has_item": "2025-07-19 22:47:57 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/diopside_helmet": {
     "criteria": {
       "has_item": "2025-07-19 22:26:59 +0000"
@@ -7619,9 +7679,39 @@
     },
     "done": true
   },
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-07-19 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
     },
     "done": true
   },
@@ -7646,6 +7736,12 @@
   "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2025-07-19 22:16:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
     },
     "done": true
   },
@@ -7685,6 +7781,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
   "blue_skies:everdawn/get_wood": {
     "criteria": {
       "has_dusk_log": "2025-07-19 22:10:37 +0000"
@@ -7697,9 +7799,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-19 22:05:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2025-07-19 22:46:55 +0000"
     },
     "done": true
   },
@@ -7730,6 +7850,12 @@
   "blue_skies:recipes/building_blocks/furnace_compat": {
     "criteria": {
       "has_item": "2025-07-19 22:16:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_door": {
+    "criteria": {
+      "has_item": "2025-07-19 22:46:55 +0000"
     },
     "done": true
   },

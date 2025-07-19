@@ -655,3 +655,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 22:34:49.500] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [19Jul2025 22:34:49.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -5.088726537280763,8.001335979112142,6.015755659374463
 [19Jul2025 22:34:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was stabbed with a spike by Alchemist
+[19Jul2025 22:36:56.694] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 22:36:56.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[19Jul2025 22:36:56.698] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 22:37:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by Alchemist using magic
+[19Jul2025 22:56:26.393] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[19Jul2025 22:56:26.397] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[19Jul2025 22:56:44.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Alchemist

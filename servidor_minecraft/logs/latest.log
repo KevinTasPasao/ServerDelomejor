@@ -633,3 +633,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 15:09:51.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2376ms or 47 ticks behind
 [19Jul2025 15:15:40.993] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 269.3 μs. 249/249 recipes are parallelized.
 [19Jul2025 15:18:07.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[19Jul2025 15:20:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Pseudo Archaeologist]
+[19Jul2025 15:23:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Ashes 'n Bones]

@@ -732,3 +732,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 17:54:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
 [19Jul2025 17:57:15.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
 [19Jul2025 17:58:06.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[19Jul2025 18:08:58.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]

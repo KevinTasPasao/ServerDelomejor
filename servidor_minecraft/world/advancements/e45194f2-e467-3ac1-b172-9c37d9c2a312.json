@@ -6456,6 +6456,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-07-19 18:08:13 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-07-19 17:47:33 +0000"
@@ -6573,6 +6579,12 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-07-19 15:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 18:08:13 +0000"
     },
     "done": true
   },
@@ -6897,6 +6909,12 @@
   "securitycraft:recipes/decorations/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-19 18:08:13 +0000"
     },
     "done": true
   },

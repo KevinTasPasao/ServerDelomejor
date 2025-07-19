@@ -662,3 +662,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 22:56:26.393] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [19Jul2025 22:56:26.397] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [19Jul2025 22:56:44.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was shot by Alchemist
+[19Jul2025 23:01:01.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:51123] logged in with entity id 164638 at (-1042.32539485128, 109.0, -488.8191192869404)
+[19Jul2025 23:01:01.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[19Jul2025 23:01:01.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[19Jul2025 23:01:01.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[19Jul2025 23:01:01.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[19Jul2025 23:01:01.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[19Jul2025 23:01:01.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[19Jul2025 23:01:01.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[19Jul2025 23:01:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[19Jul2025 23:03:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[19Jul2025 23:05:23.856] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[19Jul2025 23:05:23.912] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved

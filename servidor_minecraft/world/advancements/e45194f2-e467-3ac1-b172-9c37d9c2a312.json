@@ -7601,12 +7601,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-19 22:52:58 +0000"
-    },
-    "done": false
-  },
   "blue_skies:recipes/redstone/maple_button": {
     "criteria": {
       "has_item": "2025-07-19 22:46:55 +0000"

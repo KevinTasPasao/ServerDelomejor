@@ -780,3 +780,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [19Jul2025 18:55:13.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
 [19Jul2025 18:57:51.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
 [19Jul2025 19:01:19.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[19Jul2025 19:03:08.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[19Jul2025 19:03:51.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
+[19Jul2025 19:08:52.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2321.500000, -13.500000, 1208.500000]
+[19Jul2025 19:08:53.042] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[19Jul2025 19:08:58.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -2291.500000, 102.500000, 1024.500000]
+[19Jul2025 19:09:33.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]

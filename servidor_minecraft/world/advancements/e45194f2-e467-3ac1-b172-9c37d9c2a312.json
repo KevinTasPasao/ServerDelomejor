@@ -6408,12 +6408,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-19 19:00:19 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-07-19 17:43:20 +0000"

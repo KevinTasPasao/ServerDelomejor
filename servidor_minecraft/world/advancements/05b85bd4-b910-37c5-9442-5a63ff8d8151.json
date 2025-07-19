@@ -4621,9 +4621,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-07-19 19:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -4687,6 +4699,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-07-19 18:29:41 +0000"
@@ -4708,6 +4726,12 @@
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-07-19 18:21:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -4801,6 +4825,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/ebony_stairs": {
+    "criteria": {
+      "has_the_recipe": "2025-07-19 19:42:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -4816,6 +4846,18 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-07-19 16:12:21 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_bookshelf": {
+    "criteria": {
+      "has_ebony_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -4836,6 +4878,18 @@
   "tombstone:adventure/prevent_death_burn": {
     "criteria": {
       "coded_trigger": "2025-07-19 15:42:07 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
     },
     "done": true
   },
@@ -4905,6 +4959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 15:18:56 +0000"
@@ -4953,9 +5013,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -4965,9 +5037,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 15:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -5019,6 +5109,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -5067,6 +5163,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/ebony_slab": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
@@ -5106,6 +5208,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-07-19 15:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -5152,6 +5260,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-07-19 17:32:58 +0000"
@@ -5173,6 +5287,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -5230,9 +5350,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -5266,6 +5398,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/decorations/ebony_crafting_table": {
+    "criteria": {
+      "has_ebony_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-19 17:50:46 +0000"
@@ -5281,6 +5419,24 @@
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-07-19 17:52:38 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
     },
     "done": true
   },
@@ -5338,6 +5494,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/ebony_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/granite": {
     "criteria": {
       "has_the_recipe": "2025-07-19 19:38:21 +0000"
@@ -5392,6 +5554,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-19 18:32:29 +0000"
@@ -5428,6 +5602,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/redstone/ebony_button": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-19 18:33:45 +0000"
@@ -5452,6 +5632,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-07-19 19:42:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-07-19 15:47:39 +0000"
@@ -5467,6 +5653,12 @@
   "tombstone:adventure/prevent_death_suffocation": {
     "criteria": {
       "coded_trigger": "2025-07-19 15:55:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/ebony_sign": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
     },
     "done": true
   },
@@ -5521,6 +5713,12 @@
   "biomeswevegone:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_log": "2025-07-19 19:38:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-19 19:46:24 +0000"
     },
     "done": true
   },

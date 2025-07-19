@@ -3467,6 +3467,7 @@
       "minecraft:pillager": "2025-07-19 15:04:19 +0000",
       "minecraft:skeleton": "2025-07-15 15:01:41 +0000",
       "minecraft:spider": "2025-07-15 03:49:59 +0000",
+      "minecraft:phantom": "2025-07-19 19:45:08 +0000",
       "minecraft:cave_spider": "2025-07-16 01:29:02 +0000",
       "minecraft:zombie": "2025-07-15 03:45:51 +0000",
       "minecraft:zombie_villager": "2025-07-16 00:35:38 +0000"
@@ -6474,6 +6475,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-07-19 19:46:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-07-19 17:47:33 +0000"
@@ -6762,6 +6769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-19 19:48:16 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2025-07-19 17:47:33 +0000"
@@ -6996,6 +7009,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-19 19:48:16 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/robe": {
     "criteria": {
       "has_item": "2025-07-19 15:06:31 +0000"
@@ -7109,6 +7128,12 @@
       "has_sign": "2025-07-19 15:52:32 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-07-19 19:45:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
